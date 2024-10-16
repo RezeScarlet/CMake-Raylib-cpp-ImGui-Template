@@ -17,8 +17,8 @@ int main() {
     rlImGuiBegin();
 
     ClearBackground(raylib::Color::White());
-
-    ImGui::Text("Hello, world %d", 123);
+  
+    ImGui::ShowDemoWindow();
 
     rlImGuiEnd();
     EndDrawing();
