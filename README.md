@@ -1,5 +1,5 @@
 # CMake Raylib C++ ImGui Template
-A template for <a href="https://github.com/raysan5/raylib">Raylib</a>, C++, <a href="https://github.com/ocornut/imgui">ImGui</a>, <a href="https://github.com/raylib-extras/rlImGui">rlImGui</a> and built with Cmake.
+A template for <a href="https://github.com/raysan5/raylib">Raylib</a>, <a href="https://github.com/RobLoach/raylib-cpp">Raylib CPP<a>, <a href="https://github.com/ocornut/imgui">ImGui</a>, <a href="https://github.com/raylib-extras/rlImGui">rlImGui</a> and built with Cmake.
 
 ## How to Build
 Edit CMakeLists.txt and change the project and executable name in lines 2, 9 and 54
