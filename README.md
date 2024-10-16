@@ -8,7 +8,7 @@ Edit CMakeLists.txt and change the project and executable name in lines 2, 9 and
 9   add_executable(PROJECT_NAME src/main.cpp) // or all .cpp files you have on your src/
 54  target_link_libraries(PROJECT_NAME PRIVATE imgui rlimgui raylib raylib_cpp)
 ```
-Create your build directory
+Generate build files and build
 ```
 mkdir build/
 cd build/
